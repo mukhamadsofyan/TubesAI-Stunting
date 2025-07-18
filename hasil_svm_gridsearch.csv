@@ -1,0 +1,5 @@
+Kernel,Akurasi (%),AUC,Best Params
+LINEAR,92.62,0.977,{'C': 10}
+POLY,97.31,0.995,"{'C': 10, 'degree': 3, 'gamma': 'auto'}"
+RBF,98.46,0.998,"{'C': 10, 'gamma': 'scale'}"
+SIGMOID,89.15,0.954,"{'C': 0.1, 'gamma': 'auto'}"
